@@ -9,6 +9,17 @@ $(document).ready(function() {
 			"transform" : "translate(0%, " + st/30 + "%"
 
 	});
+
+				$('.sect_3_txt').css({
+			"transform" : "translate(0%, " + st/7 + "%"
+
+	});
+
+
+				$('.sect_2_txt').css({
+			"transform" : "translate(0%, -" + st/2 + "%"
+
+	});
 });
 
 });
