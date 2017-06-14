@@ -31,8 +31,18 @@ section {
 	right: 0px;
 }
 
-.sect_2 img{
+.sect_2{
+	background-image: url('../img/sect2.jpg');
+	background-size: cover;
+	z-index: -2 ;
+	margin-top: -200px;
+}
+
+.sect_3{
+position: absolute;
+/*margin-top: -200px;*/
+/*.sect_2 img{
 	position: absolute;
 	width: 100%;
 	top: -350px;
-}
+}*/
